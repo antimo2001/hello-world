@@ -4,7 +4,7 @@
 * practiced *markdown* styling
 * practiced master branch edits can be saved too?
 
-# Ideas for npm-extensions
+# Ideas for npm-expansions
 * Native Pearl Mussels
 * Neighbor Photographs Mauling
 * Neighbor Pilfers Mower
